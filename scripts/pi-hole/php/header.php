@@ -271,10 +271,10 @@ if($auth) {
                         <ul class="dropdown-menu">
                             <!-- User image -->
                             <li class="user-header">
-                                <img src="img/logo.svg" alt="Pi-hole Logo" style="border: 0" width="90" height="90">
+                                <img src="img/logo.svg" alt="Halt-Ads Logo" style="border: 0" width="90" height="90">
                                 <p>
-                                    Mitul Poshia Open Source Ad Blocker
-                                    <small>Designed Mitul Poshia</small>
+                                    Halt Ads Ad Blocker
+                                    <small>Designed Halt Ads</small>
                                 </p>
                             </li>
                             <!-- Menu Body -->
@@ -316,7 +316,7 @@ if($auth) {
             <!-- Sidebar user panel -->
             <div class="user-panel">
                 <div class="pull-left image">
-                    <img src="img/logo.svg" alt="Pi-hole logo" width="45" height="67" style="height: 67px;">
+                    <img src="img/logo.svg" alt="Halt-Ads logo" width="45" height="67" style="height: 67px;">
                 </div>
                 <div class="pull-left info">
                     <p>Status</p>
